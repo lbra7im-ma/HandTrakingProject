@@ -26,4 +26,4 @@ You can stop the program by pressing the q key in the video window.
 
 Contributing
 If you want to contribute to this project, please open a pull request or contact the author.
-![mediapipe](https://github.com/user-attachments/assets/a97702f8-32b7-45b1-8a74-d2dbc316be1d)
+
